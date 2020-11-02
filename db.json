@@ -1,5 +1,5 @@
 {
-  "auth": [
+  "auth": 
   {
     "code": "ok",
     "description": "ok",
@@ -7,7 +7,7 @@
         "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImV4cCI6MTYwMTM5MjI3MX0.Pdzqth2YO8pMsoNf_Eqld2ITHG6IjLsHb3dHpR-eoZMRpHbYa-78LcM8AHXyzZasAMY6RjfOXLTfPnxlQsdf_R"
     }
 }
-  ],
+  ,
   "profile": {
     "name": "typicode"
   }
